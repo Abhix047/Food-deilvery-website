@@ -1,2 +1,9 @@
+# Ignore common generated folders
 vendor/* linguist-vendored
 node_modules/* linguist-vendored
+dist/* linguist-vendored
+build/* linguist-vendored
+
+# Force PHP language
+*.php linguist-language=PHP
+

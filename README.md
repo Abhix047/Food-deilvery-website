@@ -1,5 +1,4 @@
-# Food-deilvery-website
-A Food Delivery System project involves developing a platform typically a website where customers can browse place orders, and have food delivered to their location. The system usually includes Html,CSS,MySql,PHP.
+
 # 🍔 FoodIn – Online Food Delivery Website
 
 FoodIn is a PHP-based online food delivery web application that allows users to browse food items, add them to cart, place orders, and manage their accounts.  
